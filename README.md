@@ -42,4 +42,6 @@
 </a>
 
 <br/>
+<div>
 ![Snake animation](https://github.com/vanneeh/vanneeh/blob/output/github-contribution-grid-snake.svg)
+</div>
